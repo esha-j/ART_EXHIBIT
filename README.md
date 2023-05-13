@@ -30,4 +30,8 @@ for the exhibit and
 +	Delete
 +	Insert
 
+### CONCLUSION
+
+All the basic file operations are used in this program. Any data member or function can be added to the program according to the user.
+
 
