@@ -49,40 +49,40 @@ Insert
 ```
 4. Create functions for the following (EXHIBIT OPTION):
 ```
-+ Create 
-+ Display all
-+	Display with condition
-+	Search
-+	Append
-+	Modify
-+	Delete
-+	Insert
+Create 
+Display all
+Display with condition
+Search
+Append
+Modify
+Delete
+Insert
 ```
 
 5. Print the choices:
 ```
-+ Create 
-+ Display all
-+	Display with condition
-+	Search
-+	Append
-+	Copy
-+	Move
-+	Modify
-+	Delete
-+	Insert
+Create 
+Display all
+Display with condition
+Search
+Append
+Copy
+Move
+Modify
+Delete
+Insert
 ```
 for the exhibit 
 and
 ```
-+	Create
-+	Display all
-+	Display with condition
-+	Search
-+	Append
-+	Modify
-+	Delete
-+	Insert
+Create 
+Display all
+Display with condition
+Search
+Append
+Modify
+Delete
+Insert
 ```
 for visitors. 
 
