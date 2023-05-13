@@ -35,6 +35,7 @@ for the exhibit and
 1. START
 2. Create classes for visitors and exhibits.
 3. Create functions for the following (USER OPTION):
+```
 + Create 
 + Display all
 +	Display with condition
@@ -45,8 +46,9 @@ for the exhibit and
 +	Modify
 +	Delete
 +	Insert
-
+```
 4. Create functions for the following (EXHIBIT OPTION):
+```
 + Create 
 + Display all
 +	Display with condition
@@ -55,8 +57,10 @@ for the exhibit and
 +	Modify
 +	Delete
 +	Insert
+```
 
 5. Print the choices:
+```
 + Create 
 + Display all
 +	Display with condition
@@ -67,8 +71,10 @@ for the exhibit and
 +	Modify
 +	Delete
 +	Insert
+```
 for the exhibit 
 and
+```
 +	Create
 +	Display all
 +	Display with condition
@@ -77,9 +83,13 @@ and
 +	Modify
 +	Delete
 +	Insert
+```
 for visitors. 
 
-6. 
+6. Call all the functions.
+-Input the character which directs the program to function that is required to be executed by switch case.
+
+7. STOP
 
 ### CONCLUSION
 
