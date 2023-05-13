@@ -36,16 +36,16 @@ for the exhibit and
 2. Create classes for visitors and exhibits.
 3. Create functions for the following (USER OPTION):
 ```
-+ Create 
-+ Display all
-+	Display with condition
-+	Search
-+	Append
-+	Copy
-+	Move
-+	Modify
-+	Delete
-+	Insert
+Create 
+Display all
+Display with condition
+Search
+Append
+Copy
+Move
+Modify
+Delete
+Insert
 ```
 4. Create functions for the following (EXHIBIT OPTION):
 ```
