@@ -1,4 +1,4 @@
-# ART_EXHIBIT
+# Art_Exhibit
 Art Exhibition Using C++
 
 ### AIM
